@@ -1,6 +1,6 @@
 import random
 
-#RUNS A SNAKE GAME IN THE SHELL.  MUST HIT ENTER BETWEEN EACH INPUT.
+#RUNS A SNAKE GAME IN THE SHELL.  MUST HIT ENTER BETWEEN EACH INPUT
 
 class board:
     """Class for implimenting the grid that the snake game is played on"""
